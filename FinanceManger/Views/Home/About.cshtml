@@ -1,7 +1,27 @@
-﻿@{
+﻿@model FinanceManger.Models.Users
+
+@{
     ViewBag.Title = "About";
 }
 <h2>@ViewBag.Title.</h2>
 <h3>@ViewBag.Message</h3>
 
-<p>Use this area to provide additional information.</p>
+<h2>Employee Details</h2>
+<table style="font-family:Arial">
+    <tr>
+        <td>
+            <b>User ID:</b>
+        </td>
+        <td>
+            @Model.UserID
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Username:</b>
+        </td>
+        <td>
+            @Model.Username
+        </td>
+    </tr>
+</table>

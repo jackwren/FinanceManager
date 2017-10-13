@@ -88,3 +88,7 @@ C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\D
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\Debug\FinanceManger.csproj.CoreCompileInputs.cache
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\Debug\FinanceManger.dll
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\Debug\FinanceManger.pdb
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\EntityFramework.dll
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\EntityFramework.SqlServer.dll
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\EntityFramework.xml
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\EntityFramework.SqlServer.xml

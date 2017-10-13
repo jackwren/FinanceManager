@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManger", "FinanceMan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManger.Tests", "FinanceManger.Tests\FinanceManger.Tests.csproj", "{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WebDatabase", "Database\WebDatabase\WebDatabase.sqlproj", "{FD62341E-913E-4EF6-A9CB-5BCAFCA64D74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD62341E-913E-4EF6-A9CB-5BCAFCA64D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD62341E-913E-4EF6-A9CB-5BCAFCA64D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD62341E-913E-4EF6-A9CB-5BCAFCA64D74}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD62341E-913E-4EF6-A9CB-5BCAFCA64D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD62341E-913E-4EF6-A9CB-5BCAFCA64D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD62341E-913E-4EF6-A9CB-5BCAFCA64D74}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

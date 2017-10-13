@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManger", "FinanceManger\FinanceManger.csproj", "{2C42BC4B-7D53-474A-9AA4-372D7784556A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManger.Tests", "FinanceManger.Tests\FinanceManger.Tests.csproj", "{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C42BC4B-7D53-474A-9AA4-372D7784556A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C42BC4B-7D53-474A-9AA4-372D7784556A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C42BC4B-7D53-474A-9AA4-372D7784556A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C42BC4B-7D53-474A-9AA4-372D7784556A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E87B1B2-DB76-47FF-90AD-FECCAA25608A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6585634A-FA15-4C3A-8240-8B95AEC0B05E}
+	EndGlobalSection
+EndGlobal

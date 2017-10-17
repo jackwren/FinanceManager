@@ -84,7 +84,6 @@ C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\M
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\bin\Microsoft.AI.Web.xml
-C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\Debug\FinanceManger.csprojResolveAssemblyReference.cache
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\Debug\FinanceManger.csproj.CoreCompileInputs.cache
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\Debug\FinanceManger.dll
 C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\FinanceManger\obj\Debug\FinanceManger.pdb

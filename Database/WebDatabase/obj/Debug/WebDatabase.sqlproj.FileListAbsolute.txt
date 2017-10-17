@@ -7,3 +7,12 @@ C:\Users\jackw\Documents\github\FinanceManger\Database\WebDatabase\obj\Debug\Web
 C:\Users\jackw\Documents\github\FinanceManger\Database\WebDatabase\obj\Debug\WebDatabase.pdb
 C:\Users\jackw\Documents\github\FinanceManger\Database\WebDatabase\bin\Debug\WebDatabase.dll
 C:\Users\jackw\Documents\github\FinanceManger\Database\WebDatabase\bin\Debug\WebDatabase.pdb
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\bin\Debug\WebDatabase.dacpac
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\bin\Debug\WebDatabase.dll
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\bin\Debug\WebDatabase.pdb
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\obj\Debug\Model.xml
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\obj\Debug\refactor.xml
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\obj\Debug\postdeploy.sql
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\obj\Debug\predeploy.sql
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\obj\Debug\WebDatabase.dll
+C:\Users\jackw\Documents\github\FinanceManger\FinanceManager\Database\WebDatabase\obj\Debug\WebDatabase.pdb

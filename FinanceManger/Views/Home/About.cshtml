@@ -1,4 +1,4 @@
-﻿@model FinanceManger.Models.Users
+﻿@model IEnumerable<FinanceManger.Models.Users>
 
 @{
     ViewBag.Title = "About";
@@ -7,21 +7,36 @@
 <h3>@ViewBag.Message</h3>
 
 <h2>Employee Details</h2>
-<table style="font-family:Arial">
+<table>
     <tr>
-        <td>
-            <b>User ID:</b>
-        </td>
-        <td>
-            @Model.UserID
-        </td>
+        <th>
+            @Html.DisplayNameFor(model => model.UserID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
     </tr>
-    <tr>
-        <td>
-            <b>Username:</b>
-        </td>
-        <td>
-            @Model.Username
-        </td>
-    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.UserID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.UserID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.UserID })
+            </td>
+        </tr>
+    }
 </table>
